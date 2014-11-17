@@ -10,3 +10,6 @@ $ make flash
 
 To clean the project
 $ make clean
+
+Reference Hackpad
+https://embedded-note.hackpad.com/GPIO_Demo_for_STM32-5lwLiOhV0gz
